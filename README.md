@@ -1,2 +1,2 @@
-# Movie-Recommender-System
-Created a ssytem to recommend movies using Python.
+# movie-recommender-system-tmdb-dataset
+A content based movie recommender system using cosine similarity
